@@ -1,4 +1,4 @@
-# 🧩 Customer Segmentation — RFM Analysis & K-Means Clustering
+# Customer Segmentation — RFM Analysis & K-Means Clustering
 
 ## Objective
 Apply clustering algorithms to segment an e-commerce company's customer base into distinct groups based on purchasing behaviour (RFM: Recency, Frequency, Monetary), enabling targeted marketing strategies.
